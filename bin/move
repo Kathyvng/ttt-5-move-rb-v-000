@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 require_relative '../lib/move.rb'
-puts "Welcome, Jenny!"
+puts "Welcome Dad, to my Tic Tac Toe game!"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Where would you like to go?"
 input = gets.strip
